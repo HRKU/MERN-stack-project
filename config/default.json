@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://hrku_123:hrku_123@merncluster-shard-00-00.u08je.mongodb.net:27017,merncluster-shard-00-01.u08je.mongodb.net:27017,merncluster-shard-00-02.u08je.mongodb.net:27017/db-mern?ssl=true&replicaSet=atlas-4476ih-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtsecret":"BeboBobo",
+  "githubClientID":"9091dd5874966168a4db",
+  "githubSecret":"07806ed096591a1bb4dd401cd1e7b08c3cb17ea9"
+}
