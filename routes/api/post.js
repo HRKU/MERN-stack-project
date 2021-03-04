@@ -79,7 +79,7 @@ router.get('/:id', auth, async(req, res) => {
 // @route  Delete api/posts
 // @desc   Delete all posts
 // @access Private
-
+//
 router.delete('/:id',auth, async(req, res) => {
     try {
         const post = await Post.findById(req.params.id);
